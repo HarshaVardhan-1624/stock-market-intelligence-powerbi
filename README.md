@@ -3,21 +3,21 @@ A comprehensive Power BI Dashboard that analyzes stock market trends, and invest
 
 🗂️ Dashboard Features
 
-KPI Summary Cards — Quick snapshot of total volume, trades, tickers, closing price, volatility, YTD return, and RSI.
+-KPI Summary Cards — Quick snapshot of total volume, trades, tickers, closing price, volatility, YTD return, and RSI.
 
-Avg YTD Return by Sector & Year — Compare 2024 vs 2025 performance across sectors.
+-Avg YTD Return by Sector & Year — Compare 2024 vs 2025 performance across sectors.
 
-Avg Monthly Return — Month-by-month return trends with positive/negative highlights.
+-Avg Monthly Return — Month-by-month return trends with positive/negative highlights.
 
-Avg Closing Price by Ticker — Horizontal bar chart ranking tickers by closing price.
+-Avg Closing Price by Ticker — Horizontal bar chart ranking tickers by closing price.
 
-Avg YTD Return by Ticker — Identifies top and bottom performing stocks.
+-Avg YTD Return by Ticker — Identifies top and bottom performing stocks.
 
-Top 5 Stocks – Avg Close Comparison — Line chart comparing LINH, NVDA, NFLX, META, GS.
+- Top 5 Stocks – Avg Close Comparison — Line chart comparing LINH, NVDA, NFLX, META, GS.
 
-Total Volume by Sector — Donut chart showing sector-wise volume distribution.
+-Total Volume by Sector — Donut chart showing sector-wise volume distribution.
 
-Buy vs Sell Distribution — 52.3% Sell vs 47.7% Buy across 73.1K total trades.
+-Buy vs Sell Distribution — 52.3% Sell vs 47.7% Buy across 73.1K total trades.
 
 Monthly Signal Table — Open, High, Low, Close prices with Bullish/Bearish signals.
 
