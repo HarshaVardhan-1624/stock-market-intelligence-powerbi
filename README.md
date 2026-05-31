@@ -45,20 +45,25 @@ How to Use:
 
 🔢 KPI Cards & Slicers
 ![KPI Cards](02_kpi_cards_slicers.png)
-> Quick snapshot of Total Volume, Trades, RSI, YTD Return with Year, Ticker & Sector filters
+> Quick snapshot of Total Volume, Trades, RSI, YTD Return with Year, Ticker & Sector filters.
+
 
 📊 Return Trends
 ![Returns](03_returns_charts.png)
-> YTD Return by Sector & Monthly Return trends for 2024-2025
+> YTD Return by Sector & Monthly Return trends for 2024-2025.
+
 
 🏆 Ticker Comparison
 ![Tickers](04_ticker_comparison.png)
-> Top performing tickers and Top 5 stock closing price comparison
+> Top performing tickers and Top 5 stock closing price comparison.
+
 
 ⏺️ Volume & Distribution
 ![Volume](05_volume_distribution.png)
-> Sector-wise volume breakdown and Buy vs Sell distribution
+> Sector-wise volume breakdown and Buy vs Sell distribution.
+
 
 📋 Closing Price & Signals
 ![Signals](06_closing_price_signals.png)
-> Avg closing price by ticker and monthly Bullish/Bearish signals
+> Avg closing price by ticker and monthly Bullish/Bearish signals.
+
